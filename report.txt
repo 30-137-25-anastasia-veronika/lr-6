@@ -1,0 +1,16 @@
+VALID PURCHASES: 27
+ERROR LINES: 5
+TOTAL SPENT: 153.79000000000002
+
+SPENT BY CATEGORY:
+  food: 48.39999999999999
+  transport: 33.4
+  other: 12.99
+  home: 19.3
+  entertainment: 28.2
+  health: 11.5
+
+TOP 3 EXPENSIVE PURCHASES:
+  2025-09-05 | entertainment | Cinema ticket | price=9.5 qty=2.0 cost=19.0
+  2025-09-08 | transport | Taxi ride | price=15.4 qty=1.0 cost=15.4
+  2025-09-02 | transport | Metro card | price=12.0 qty=1.0 cost=12.0
